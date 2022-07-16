@@ -422,5 +422,5 @@
   ·
   <br />
   <br />
-  <sub>Contributions welcome! Read the <a href=".github/CONTRIBUTING.md">contribution guidelines</a> first.</sub>
+  <sub>University Of Holy Quran first.</sub>
 </p>
